@@ -1,0 +1,4 @@
+dist/
+auth_info/
+node_modules/
+package-lock.json
